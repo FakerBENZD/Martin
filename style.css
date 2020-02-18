@@ -1,0 +1,86 @@
+ main {
+     font-family: Tomorrow;
+     
+     
+ }
+ .tit{
+     text-align: right;
+     position: relative;
+     right: 105px;
+     font-size: 55px;
+     top: 100px;
+     
+ }
+ .is {
+
+    width:350px; 
+    height: 200px;
+    margin-bottom: 80px;
+    
+    
+    
+    
+ }
+ article {
+     
+     
+     text-align:center;
+     width:500px;
+     line-height: 30px;
+     float: right;
+     overflow:auto;
+     position:relative;
+     right: 100px;
+     top: 110px;
+ }
+.tit {
+
+
+    font-family: 'Great Vibes', cursive;
+
+}
+ .main-img
+ {
+     
+     widows: 475px;
+     height: 520px;
+     display: block;
+     position: relative;
+     left: 120px;
+     
+     
+     
+ }
+ .qu {
+     position: relative;
+     text-align: center;
+     top: 200px;
+     background-color: black;
+     height: 60px;
+     color: white;
+     padding-top: 40px;
+     font-size: x-large;
+     margin: auto;
+     
+ }
+ .qu:hover {
+
+    transform: scale(1.1);
+    box-shadow: 10px 10px 5px grey;
+ }
+
+ 
+ footer{
+     
+     
+    background-color:black;
+    height: 100px;
+    text-align: right;
+    position: relative;
+    color: white;
+    padding-top: 40px;
+    padding-right: 27px;
+    font-size: larger;
+    top: 500px;
+    
+}
