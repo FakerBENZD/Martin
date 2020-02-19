@@ -63,12 +63,93 @@
      margin: auto;
      
  }
- .qu:hover {
+ 
 
+.flex-container
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:center;
+
+    align-self: center;
+    justify-content: space-between;
+
+}
+.bir {
+    flex-basis: auto;
+    justify-content:center;
+    text-align: center;
+    flex-basis: 400px;
+    align-self: flex-start;
+    
+
+
+
+}
+.bir:hover 
+{
     transform: scale(1.1);
-    box-shadow: 10px 10px 5px grey;
- }
+    box-shadow: 10px 10px 10px 5px grey;
+    background-color: white;
+    color: black;
+}
+.ado {
+    flex-basis: auto;
+    justify-content:center;
+    text-align: center;
+    flex-basis: 400px;
+    align-self: flex-start;
+    
+    
+   
 
+}
+.ado:hover {
+    transform: scale(1.1);
+    box-shadow: 10px 10px 10px 5px grey;
+    background-color: white;
+    color: black;
+}
+.key 
+{
+    flex-basis: auto;
+    justify-content:center;
+    text-align: center;
+    flex-basis: 400px;
+    align-self: flex-start;
+
+}
+.key:hover {
+    transform: scale(1.1);
+    box-shadow: 10px 10px 10px 5px grey;
+    background-color: white;
+    color: black;
+}
+.flex2
+{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.imgK
+{
+    flex-basis: 800px;
+}
+.links {
+    flex-basis: 800px;
+   
+
+}
+.txt {
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 70px;
+    margin: auto;
+    padding-top: 30px;
+    font-size: larger;
+    
+}
  
  footer{
      
