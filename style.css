@@ -150,7 +150,37 @@
     font-size: larger;
     
 }
- 
+ .wiki_img{
+    position: relative;
+    height: 100px;
+    width: 100px;
+    top: 150px;
+    left: 50px;
+ }
+ .youtube_img
+ {
+    position: relative;
+    height: 100px;
+    width: 100px;
+    top: 150px;
+    left: 125px;
+ }
+ .cnn_img
+ {
+    position: relative;
+    height: 140px;
+    width: 160px;
+    top: 170px;
+    left: 200px;
+ }
+ .last 
+ { 
+     position: relative;
+     ;
+     top: 200px;
+     margin: auto;     
+     left:230px;
+ }
  footer{
      
      
@@ -162,6 +192,6 @@
     padding-top: 40px;
     padding-right: 27px;
     font-size: larger;
-    top: 500px;
+    top: 100px;
     
 }
