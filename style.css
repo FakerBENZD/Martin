@@ -1,197 +1,212 @@
- main {
-     font-family: Tomorrow;
-     
-     
- }
- .tit{
-     text-align: right;
-     position: relative;
-     right: 105px;
-     font-size: 55px;
-     top: 100px;
-     
- }
- .is {
+main {
+    font-family: Tomorrow;
+    
+    
+}
+#title{
+    text-align: right;
+    position: relative;
+    right: 105px;
+    font-size: 55px;
+    top: 100px;
+    
+}
+.is {
 
-    width:350px; 
-    height: 200px;
-    margin-bottom: 80px;
+   width:350px; 
+   height: 200px;
+   margin-bottom: 80px;
+   
+   
+   
+   
+}
+article {
     
     
-    
-    
- }
- article {
-     
-     
-     text-align:center;
-     width:500px;
-     line-height: 30px;
-     float: right;
-     overflow:auto;
-     position:relative;
-     right: 100px;
-     top: 110px;
- }
-.tit {
+    text-align:center;
+    width:500px;
+    line-height: 30px;
+    float: right;
+    overflow:auto;
+    position:relative;
+    right: 100px;
+    top: 110px;
+}
+#title {
 
 
-    font-family: 'Great Vibes', cursive;
+   font-family: 'Great Vibes', cursive;
 
 }
- .main-img
- {
-     
-     widows: 475px;
-     height: 520px;
-     display: block;
-     position: relative;
-     left: 120px;
-     
-     
-     
- }
- .qu {
-     position: relative;
-     text-align: center;
-     top: 200px;
-     background-color: black;
-     height: 60px;
-     color: white;
-     padding-top: 40px;
-     font-size: x-large;
-     margin: auto;
-     
- }
- 
+.main-img
+{
+    
+    widows: 475px;
+    height: 520px;
+    display: block;
+    position: relative;
+    left: 120px;
+    
+    
+    
+}
+.qu {
+    position: relative;
+    text-align: center;
+    top: 200px;
+    background-color: black;
+    height: 60px;
+    color: white;
+    padding-top: 40px;
+    font-size: x-large;
+    margin: auto;
+    
+}
+
 
 .flex-container
 {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content:center;
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   justify-content:center;
 
-    align-self: center;
-    justify-content: space-between;
+   align-self: center;
+   justify-content: space-between;
 
 }
 .bir {
-    flex-basis: auto;
-    justify-content:center;
-    text-align: center;
-    flex-basis: 400px;
-    align-self: flex-start;
-    
+   flex-basis: auto;
+   justify-content:center;
+   text-align: center;
+   flex-basis: 400px;
+   align-self: flex-start;
+   
 
 
 
 }
 .bir:hover 
 {
-    transform: scale(1.1);
-    box-shadow: 10px 10px 10px 5px grey;
-    background-color: white;
-    color: black;
+   transform: scale(1.1);
+   box-shadow: 10px 10px 10px 5px grey;
+   background-color: white;
+   color: black;
 }
 .ado {
-    flex-basis: auto;
-    justify-content:center;
-    text-align: center;
-    flex-basis: 400px;
-    align-self: flex-start;
-    
-    
+   flex-basis: auto;
+   justify-content:center;
+   text-align: center;
+   flex-basis: 400px;
+   align-self: flex-start;
    
+   
+  
 
 }
 .ado:hover {
-    transform: scale(1.1);
-    box-shadow: 10px 10px 10px 5px grey;
-    background-color: white;
-    color: black;
+   transform: scale(1.1);
+   box-shadow: 10px 10px 10px 5px grey;
+   background-color: white;
+   color: black;
 }
 .key 
 {
-    flex-basis: auto;
-    justify-content:center;
-    text-align: center;
-    flex-basis: 400px;
-    align-self: flex-start;
+   flex-basis: auto;
+   justify-content:center;
+   text-align: center;
+   flex-basis: 400px;
+   align-self: flex-start;
 
 }
 .key:hover {
-    transform: scale(1.1);
-    box-shadow: 10px 10px 10px 5px grey;
-    background-color: white;
-    color: black;
+   transform: scale(1.1);
+   box-shadow: 10px 10px 10px 5px grey;
+   background-color: white;
+   color: black;
 }
 .flex2
 {
-    display: flex;
-    flex-direction: row-reverse;
+   display: flex;
+   flex-direction: row-reverse;
 }
 .imgK
 {
-    flex-basis: 800px;
+   flex-basis: 800px;
 }
 .links {
-    flex-basis: 800px;
-   
+   flex-basis: 800px;
+  
 
 }
 .txt {
-    background-color: black;
-    color: white;
-    text-align: center;
-    height: 70px;
-    margin: auto;
-    padding-top: 30px;
-    font-size: larger;
-    
+   background-color: black;
+   color: white;
+   text-align: center;
+   height: 70px;
+   margin: auto;
+   padding-top: 30px;
+   font-size: larger;
+   
 }
- .wiki_img{
+.wiki_img{
+   position: relative;
+   height: 100px;
+   width: 100px;
+   top: 150px;
+   left: 50px;
+}
+.youtube_img
+{
+   position: relative;
+   height: 100px;
+   width: 100px;
+   top: 150px;
+   left: 125px;
+}
+.cnn_img
+{
+   position: relative;
+   height: 140px;
+   width: 160px;
+   top: 170px;
+   left: 200px;
+}
+#image 
+{ 
     position: relative;
-    height: 100px;
-    width: 100px;
-    top: 150px;
-    left: 50px;
- }
- .youtube_img
- {
-    position: relative;
-    height: 100px;
-    width: 100px;
-    top: 150px;
-    left: 125px;
- }
- .cnn_img
- {
-    position: relative;
-    height: 140px;
-    width: 160px;
+    ;
     top: 170px;
-    left: 200px;
- }
- .last 
- { 
-     position: relative;
-     ;
-     top: 200px;
-     margin: auto;     
-     left:230px;
- }
- footer{
-     
-     
-    background-color:black;
-    height: 100px;
-    text-align: right;
-    position: relative;
+    margin: auto;     
+     display: block;
+ margin-left: auto;
+ margin-right: auto;
+  postion: relative; 
+  
+  width: 100%;
+height: auto;
+max-width: 625px;
+   
+}
+#img-caption {
     color: white;
-    padding-top: 40px;
-    padding-right: 27px;
-    font-size: larger;
-    top: 100px;
+    position: absolute;
+}
+#img-caption{
+ color:white
+}
+footer{
     
+    
+   background-color:black;
+   height: 100px;
+   text-align: right;
+   position: relative;
+   color: white;
+   padding-top: 40px;
+   padding-right: 27px;
+   font-size: larger;
+   top: 100px;
+   
 }
